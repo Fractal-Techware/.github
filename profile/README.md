@@ -2,6 +2,11 @@
 
 **Tested, production-ready observability & Kubernetes configs.** Every artifact ships with automated tests, not just YAML that looks right.
 
+### Free docs
+
+- [Prometheus alert runbooks](https://fractal-techware.github.io/runbooks/): 165 alerts, what they mean and what to check first
+- [OpenTelemetry Collector & Kyverno guides](https://fractal-techware.github.io/guides/): working, tested configs explained
+
 ### Free & open source (MIT)
 
 | Repo | What you get |
