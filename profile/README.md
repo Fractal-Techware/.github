@@ -20,7 +20,7 @@
 
 | Pack | Starter | Pro | Studio |
 |---|---:|---:|---:|
-| [Prometheus Alert Rules & Runbooks](https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=github&utm_medium=org-profile) — 179 alerts, 364 tests | $19 | $49 | $99 |
-| [OpenTelemetry Collector Recipes](https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=github&utm_medium=org-profile) — 16 recipes, tail sampling, PII redaction | $19 | $49 | $99 |
-| [Kubernetes Hardening Baseline Kit](https://fractaltechware.gumroad.com/l/k8s-hardening-kit?utm_source=github&utm_medium=org-profile) — 21 Kyverno policies, audit CLI | $19 | $49 | $99 |
-| [Grafana Dashboard Pack](https://fractaltechware.gumroad.com/l/grafana-dashboard-pack?utm_source=github&utm_medium=org-profile) — 13 dashboards, Terraform, Helm | $9 | $39 | $79 |
+| [Prometheus Alert Rules & Runbooks](https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=github&utm_medium=org-profile) — 179 alerts, 364 tests | $19 | $49 | $99 |
+| [OpenTelemetry Collector Recipes](https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=github&utm_medium=org-profile) — 16 recipes, tail sampling, PII redaction | $19 | $49 | $99 |
+| [Kubernetes Hardening Baseline Kit](https://store.fractaltechware.com/l/k8s-hardening-kit?utm_source=github&utm_medium=org-profile) — 21 Kyverno policies, audit CLI | $19 | $49 | $99 |
+| [Grafana Dashboard Pack](https://store.fractaltechware.com/l/grafana-dashboard-pack?utm_source=github&utm_medium=org-profile) — 13 dashboards, Terraform, Helm | $9 | $39 | $79 |
